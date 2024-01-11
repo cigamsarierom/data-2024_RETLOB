@@ -1,0 +1,16 @@
+season,position,location,utility,nplayer
+2024,DEF,Field,0,6
+2024,MID,Field,0,5
+2024,RUC,Field,0,1
+2024,FWD,Field,0,6
+2024,UTIL,Field,1,4
+2024,DEF,Emerg,0,1
+2024,MID,Emerg,0,1
+2024,RUC,Emerg,0,1
+2024,FWD,Emerg,0,1
+2024,UTIL,Emerg,0,0
+2024,DEF,Other,0,0
+2024,MID,Other,0,0
+2024,RUC,Other,0,0
+2024,FWD,Other,0,0
+2024,UTIL,Other,1,4
