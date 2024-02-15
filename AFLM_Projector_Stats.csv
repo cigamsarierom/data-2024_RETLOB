@@ -1,4 +1,4 @@
-"player_id","full_name","price_af","pricechgavg","pricechg50","pricechg75","pricechg100","pricechg120","year","round_id"
+"player_id","full_name","price_af","pricechgavg","pricechg50","pricechg75","pricechg100","pricechg120","season","round_id"
 "CD_I1000068","Chris Burgess",22200,-300,1900,4000,6000,7700,2024,-1
 "CD_I1000998","Lachlan Murphy",62500,-1000,-2000,100,2100,3800,2024,-1
 "CD_I1001195","Izak Rankine",74200,-1100,-3100,-1000,1000,2600,2024,-1
